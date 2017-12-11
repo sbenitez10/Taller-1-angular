@@ -12,6 +12,20 @@
                 "id": 1,
                 "name": "Jose Perez"
             }
+        ],
+        "equipments": [
+            {
+                "id": 1,
+                "name": "Bañador"
+            },
+            {
+                "id": 2,
+                "name": "Gorro"
+            },
+            {
+                "id": 3,
+                "name": "Gafas"
+            }
         ]
     }, {
         "id": 2,
@@ -26,6 +40,16 @@
             {
                 "id": 2,
                 "name": "Angie Gamba"
+            }
+        ],
+        "equipments": [
+            {
+                "id": 1,
+                "name": "Bosu"
+            },
+            {
+                "id": 2,
+                "name": "Pesas"
             }
         ]
     },{
