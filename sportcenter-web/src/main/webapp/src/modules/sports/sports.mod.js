@@ -40,8 +40,7 @@
                         controllerAs: 'ctrl'
                     }
                 }
-
+                //TODO
             });
-        }
-    ]);
+        }]);
 })(window.angular);
