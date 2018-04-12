@@ -1,0 +1,14 @@
+<div class="container-fluid">
+    <div class="col-lg-12">
+        <table class="table">
+            <thead class="thead-dark">
+            <th scope="col">Nombre centro</th>
+            </thead>
+            <tbody>
+                <tr ng-repeat="centros in centrosRecord">
+                    <td id="{{$index}}-name"> {{centros.name}} </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
